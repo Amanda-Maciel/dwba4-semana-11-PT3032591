@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dwba4-semana-11-PT3032591/static/css/main.2158c3e0.css",
+    "main.js": "/dwba4-semana-11-PT3032591/static/js/main.9cfa0c72.js",
+    "static/js/453.580abcb3.chunk.js": "/dwba4-semana-11-PT3032591/static/js/453.580abcb3.chunk.js",
+    "index.html": "/dwba4-semana-11-PT3032591/index.html",
+    "main.2158c3e0.css.map": "/dwba4-semana-11-PT3032591/static/css/main.2158c3e0.css.map",
+    "main.9cfa0c72.js.map": "/dwba4-semana-11-PT3032591/static/js/main.9cfa0c72.js.map",
+    "453.580abcb3.chunk.js.map": "/dwba4-semana-11-PT3032591/static/js/453.580abcb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2158c3e0.css",
+    "static/js/main.9cfa0c72.js"
+  ]
+}
